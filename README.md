@@ -15,3 +15,6 @@ Author
 ------
 
 Many thanks to the writer of [this blog](https://www.surevine.com/building-docker-images-with-maven/)
+
+License
+-------
